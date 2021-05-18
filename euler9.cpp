@@ -1,5 +1,5 @@
 /*
- * euler1.cpp
+ * euler9.cpp
  *
  *  Created on: 27 Apr 2021
  *      Author: ajders
